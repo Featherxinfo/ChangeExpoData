@@ -74,6 +74,7 @@
         "interstitialBack": "0",
         "customAds": "1",
         "native": "1",
+        "nativeExit": "1",
         "nativeBanner": "1",
         "nativespacebox": "0",
         "nativespaceboxColor": "ffffff",
