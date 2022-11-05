@@ -65,7 +65,7 @@
         "Admob": {
             "ad_showAdStatus": "1",
             "ad_loadAdIdsType": "0",
-            "is_adadmob": "0",
+            "is_platform": "admob",
             "AppID": "ca-app-pub-3940256099942544~3347511713",
             "Banner1": "/6499/example/banner",
             "Interstitial1": "/6499/example/interstitial",
