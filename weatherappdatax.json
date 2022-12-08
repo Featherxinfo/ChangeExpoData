@@ -15,7 +15,7 @@
         "app_redirectOtherAppStatus": "0",
         "app_newPackageName": "",
         "app_dialogBeforeAdShow": "0",
-        "app_adShowStatus": "1",
+        "app_adShowStatus": "0",
         "app_AppOpenAdStatus": "1",
         "app_howShowAd": "0",
         "app_adPlatformSequence": "Admob,MyCustomAds",
@@ -40,11 +40,11 @@
         "PreadChampImage": "https://dandrosoft.com//Preadmchamp/1080X1080_14.png",
         "MGLImage": "https://dandrosoft.com/MGL/CT200x200_4.gif",
         "HeaderImage": "https://dandrosoft.com//Qureka/2.gif",
-        "CustomAdsInterstitial": "1",
+        "CustomAdsInterstitial": "0",
         "launchScreen": "1",
         "interstitial": "1",
         "interstitialBack": "0",
-        "customAds": "1",
+        "customAds": "0",
         "native": "1",
         "nativeExit": "1",
         "nativeBanner": "1",
@@ -56,7 +56,7 @@
         "nativedescription": "000000",
         "playStoreRateDialog": "1",
         "ratedialog": "1",
-        "qurekapredmglview": "1",
+        "qurekapredmglview": "0",
         "startScreen": "1",
         "exitScreen": "1",
         "privacyScreen": "1"
@@ -117,64 +117,7 @@
         }
     ],
     "MORE_APP_SPLASH": [
-        {
-            "app_id": "511",
-            "app_name": "True ID Caller - Phone Number",
-            "app_packageName": "com.m.trueid.callerlocation.familylocator",
-            "app_logo": "https://play-lh.googleusercontent.com/0kJCc7UUKJyEH4clip7LuNvpvZD-U-tMVz3p-m_JoHy74Zzj77F2qfveh6Cu-xpKqqrn=s180",
-            "app_status": "Publish"
-        },
-        {
-            "app_id": "515",
-            "app_name": "GB Latest Version",
-            "app_packageName": "com.m.gbwhatsapp.gblatestversion.pro",
-            "app_logo": "https://play-lh.googleusercontent.com/3sDvUOPtzMKuxL6EfLsz9GC4kTvoSXN1hXSttVBCOCofI6w8KQqkJPT8SGTOW2kBtDk=s180",
-            "app_status": "Publish"
-        },
-        {
-            "app_id": "510",
-            "app_name": "Chat Styles Fonts for Whatsapp",
-            "app_packageName": "com.m.fancyfont.stylishtext.chatstyle.whastapp",
-            "app_logo": "https://play-lh.googleusercontent.com/mAoYKrxFj0ZzQ6LYVV83DYDgL2YjI9ipU9EO3OLCbLgUa1B-8AIs58NkWhYIGf1cPvul=s180",
-            "app_status": "Publish"
-        },
-        {
-            "app_id": "508",
-            "app_name": "Caller ID - True Spam Blocker",
-            "app_packageName": "com.m.truecaller.callerid.callerscreen.personalscreen",
-            "app_logo": "https://play-lh.googleusercontent.com/XfM5SUCYs3trtVc8h5iz2bm6u_9KP9diw7O3JQw0ePZ5Gb5ggVdifv6OCavl_1ApUw=s180",
-            "app_status": "Publish"
-        }
-    ],
-    "MORE_APP_EXIT": [
-        {
-            "app_id": "511",
-            "app_name": "True ID Caller - Phone Number",
-            "app_packageName": "com.m.trueid.callerlocation.familylocator",
-            "app_logo": "https://play-lh.googleusercontent.com/0kJCc7UUKJyEH4clip7LuNvpvZD-U-tMVz3p-m_JoHy74Zzj77F2qfveh6Cu-xpKqqrn=s180",
-            "app_status": "Publish"
-        },
-        {
-            "app_id": "515",
-            "app_name": "GB Latest Version",
-            "app_packageName": "com.m.gbwhatsapp.gblatestversion.pro",
-            "app_logo": "https://play-lh.googleusercontent.com/3sDvUOPtzMKuxL6EfLsz9GC4kTvoSXN1hXSttVBCOCofI6w8KQqkJPT8SGTOW2kBtDk=s180",
-            "app_status": "Publish"
-        },
-        {
-            "app_id": "510",
-            "app_name": "Chat Styles Fonts for Whatsapp",
-            "app_packageName": "com.m.fancyfont.stylishtext.chatstyle.whastapp",
-            "app_logo": "https://play-lh.googleusercontent.com/mAoYKrxFj0ZzQ6LYVV83DYDgL2YjI9ipU9EO3OLCbLgUa1B-8AIs58NkWhYIGf1cPvul=s180",
-            "app_status": "Publish"
-        },
-        {
-            "app_id": "508",
-            "app_name": "Caller ID - True Spam Blocker",
-            "app_packageName": "com.m.truecaller.callerid.callerscreen.personalscreen",
-            "app_logo": "https://play-lh.googleusercontent.com/XfM5SUCYs3trtVc8h5iz2bm6u_9KP9diw7O3JQw0ePZ5Gb5ggVdifv6OCavl_1ApUw=s180",
-            "app_status": "Publish"
-        }
+       
     ],
     "EXTRA_DATA": {
         "qurekapredmglurl": [
