@@ -15,7 +15,7 @@
         "app_redirectOtherAppStatus": "0",
         "app_newPackageName": "",
         "app_dialogBeforeAdShow": "0",
-        "app_adShowStatus": "1",
+        "app_adShowStatus": "0",
         "app_AppOpenAdStatus": "1",
         "app_howShowAd": "0",
         "app_adPlatformSequence": "Admob,MyCustomAds",
@@ -48,7 +48,7 @@
         "native": "1",
         "nativeExit": "1",
         "nativeBanner": "1",
-        "nativespacebox": "0",
+        "nativespacebox": "1",
         "nativespaceboxColor": "ffffff",
         "nativebg": "F8F8FA",
         "nativetitle": "000000",
@@ -74,7 +74,7 @@
             "AppOpen1": "ca-app-pub-3940256099942544/3419835294"
         },
         "MyCustomAds": {
-            "ad_showAdStatus": "1",
+            "ad_showAdStatus": "0",
             "ad_loadAdIdsType": "0"
         }
     },
