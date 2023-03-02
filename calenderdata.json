@@ -15,7 +15,7 @@
         "app_redirectOtherAppStatus": "0",
         "app_newPackageName": "",
         "app_dialogBeforeAdShow": "0",
-        "app_adShowStatus": "1",
+        "app_adShowStatus": "0",
         "app_AppOpenAdStatus": "1",
         "app_howShowAd": "0",
         "app_adPlatformSequence": "Admob,MyCustomAds",
