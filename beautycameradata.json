@@ -1,0 +1,136 @@
+{
+    "STATUS": true,
+    "MSG": "",
+    "APP_SETTINGS": {
+        "app_name": "Beauty Camera",
+        "app_accountName": "FeatherX",
+        "app_accountLink": "",
+        "app_packageName": "ai.videoeditor.videocallrecorder.screenrecorder",
+        "app_logo": "",
+        "app_status": "",
+        "app_privacyPolicyLink": "",
+        "app_needInternet": "1",
+        "app_updateAppDialogStatus": "0",
+        "app_versionCode": "",
+        "app_redirectOtherAppStatus": "0",
+        "app_newPackageName": "",
+        "app_dialogBeforeAdShow": "0",
+        "app_adShowStatus": "1",
+        "app_AppOpenAdStatus": "1",
+        "app_howShowAd": "0",
+        "app_adPlatformSequence": "Admob,MyCustomAds",
+        "app_alernateAdShow": "",
+        "app_howShowAdInterstitial": "0",
+        "app_adPlatformSequenceInterstitial": "Admob,MyCustomAds",
+        "app_alernateAdShowInterstitial": "",
+        "app_howShowAdNative": "0",
+        "app_adPlatformSequenceNative": "Admob,MyCustomAds",
+        "app_alernateAdShowNative": "",
+        "app_howShowAdBanner": "0",
+        "app_adPlatformSequenceBanner": "Admob,MyCustomAds",
+        "app_alernateAdShowBanner": "",
+        "app_mainClickCntSwAd": "0",
+        "app_innerClickCntSwAd": "0",
+        "Qurekalink": "http://946.win.qureka.com/",
+        "PreadChampLink": "http://946.win.predchamp.com/",
+        "MGLLink": "https://11.go.mglgamez.com/",
+        "QurekaHeader": "1",
+        "QurekaHeaderLink": "http://946.win.qureka.com/",
+        "Qurekaimage": "https://dandrosoft.com//Qureka/2.gif",
+        "PreadChampImage": "https://dandrosoft.com//Preadmchamp/1080X1080_14.png",
+        "MGLImage": "https://dandrosoft.com/MGL/CT200x200_4.gif",
+        "HeaderImage": "https://dandrosoft.com//Qureka/2.gif",
+        "CustomAdsInterstitial": "0",
+        "launchScreen": "1",
+        "interstitial": "1",
+        "interstitialBack": "0",
+        "customAds": "0",
+        "native": "1",
+        "nativeExit": "1",
+        "nativeBanner": "1",
+        "nativespacebox": "1",
+        "bannerspacebox": "1",
+        "nativespaceboxColor": "ffffff",
+        "nativebg": "F8F8FA",
+        "nativetitle": "000000",
+        "nativebutton": "ff1744",
+        "nativedescription": "000000",
+        "playStoreRateDialog": "1",
+        "ratedialog": "1",
+        "qurekapredmglview": "0",
+        "startScreen": "1",
+        "exitScreen": "1",
+        "privacyScreen": "1"
+    },
+    "PLACEMENT": {
+        "Admob": {
+            "ad_showAdStatus": "1",
+            "ad_loadAdIdsType": "0",
+            "is_platform": "admob",
+            "AppID": "ca-app-pub-3940256099942544~3347511713",
+            "Banner1": "ca-app-pub-3940256099942544/6300978111",
+            "Interstitial1": "ca-app-pub-3940256099942544/1033173712",
+            "Native1": "ca-app-pub-3940256099942544/2247696110",
+            "RewardedVideo1": "PLACEMENT ID",
+            "AppOpen1": "ca-app-pub-3940256099942544/3419835294"
+        },
+        "MyCustomAds": {
+            "ad_showAdStatus": "0",
+            "ad_loadAdIdsType": "0"
+        }
+    },
+    "Advertise_List": [
+        {
+            "ad_id": "7",
+            "app_name": "MGL/Play Game",
+            "app_packageName": "https://11.go.mglgamez.com/",
+            "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo2bb443cc118ff31da2ad34716e4eec8b.gif",
+            "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerd9c8fd6927b8036c7ac4c7db8204ca99.png",
+            "app_shortDecription": "Play Car Racing Game & Earn Upto 50,000 Coins\r\n ",
+            "app_buttonName": "",
+            "app_rating": "5",
+            "app_download": "120",
+            "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
+        },
+        {
+            "ad_id": "8",
+            "app_name": "MGL/Play Game",
+            "app_packageName": "https://11.go.mglgamez.com/",
+            "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo2bb443cc118ff31da2ad34716e4eec8b.gif",
+            "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerd2da495cfac05394a2bd544095f03a58.png",
+            "app_shortDecription": "Play MGL Games & Earn Upto 1,00,000 Coins Daily\r\n  ",
+            "app_buttonName": "",
+            "app_rating": "5",
+            "app_download": "1000",
+            "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
+        },
+        {
+            "ad_id": "3",
+            "app_name": "Qureka Lite/Play Game",
+            "app_packageName": "http://277.set.qureka.com/",
+            "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo178ae62e7117e35d8181c043160d0ea2.gif",
+            "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerc6f8a1a0321f50c67180261f3939a3e6.jpg",
+            "app_shortDecription": "Play Quiz & Win Upto 50,000 Coins\r\n ",
+            "app_buttonName": "",
+            "app_rating": "5",
+            "app_download": "500",
+            "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
+        }
+    ],
+    "MORE_APP_SPLASH": [
+       
+    ],
+    "EXTRA_DATA": {
+        "qurekapredmglurl": [
+            {
+                "url": "http://277.set.qureka.com/"
+            },
+            {
+                "url": "http://277.set.predchamp.com/"
+            },
+            {
+                "url": "https://11.go.mglgamez.com/"
+            }
+        ]
+    }
+}
