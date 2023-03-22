@@ -121,7 +121,7 @@
     "MORE_APP": [
         {
             "app_name": "Instagram",
-            "app_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+            "app_packageName": "com.instagram.android",
             "app_logo": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=w240-h480-rw",
             "app_banner": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=w240-h480-rw",
             "app_shortDecription": "Instagram allows you to create and share your photos, stories, reels and videos with the friends and followers",
@@ -130,7 +130,7 @@
         },
          {
             "app_name": "Snapchat",
-            "app_url": "https://play.google.com/store/apps/details?id=com.snapchat.android",
+            "app_packageName": "com.snapchat.android",
             "app_logo": "https://play-lh.googleusercontent.com/nC95iM2f4dXas2K5x-heZ_uUVH9oc-mnlQF9phleiU2Kfk_Z1Rmwrbwv0QOdwQ__T4A=w240-h480-rw",
             "app_banner": "https://play-lh.googleusercontent.com/nC95iM2f4dXas2K5x-heZ_uUVH9oc-mnlQF9phleiU2Kfk_Z1Rmwrbwv0QOdwQ__T4A=w240-h480-rw",
             "app_shortDecription": "Snapchat is a fast and fun way to connect and share special moments with your friends and family 👻",
@@ -139,7 +139,7 @@
         },
          {
             "app_name": "B612 Camera&Photo/Video Editor",
-            "app_packageName": "https://play.google.com/store/apps/details?id=com.linecorp.b612.android",
+            "app_packageName": "com.linecorp.b612.android",
             "app_logo": "https://play-lh.googleusercontent.com/MZQJwhOkgsXWeR-5-dey7Ckras4a9xx2JN8ZfQ_Twz0otjKwUcT6qkPWo8OheOShWeg=w240-h480-rw",
             "app_banner": "https://play-lh.googleusercontent.com/MZQJwhOkgsXWeR-5-dey7Ckras4a9xx2JN8ZfQ_Twz0otjKwUcT6qkPWo8OheOShWeg=w240-h480-rw",
             "app_shortDecription": "Meet trendy effects, filters, and stickers that are updated every day!",
