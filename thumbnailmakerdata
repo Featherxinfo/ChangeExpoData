@@ -16,6 +16,7 @@
         "app_newPackageName": "",
         "app_dialogBeforeAdShow": "0",
         "app_adShowStatus": "1",
+        "app_moreApps": "1",
         "app_AppOpenAdStatus": "1",
         "app_howShowAd": "0",
         "app_adPlatformSequence": "Admob,MyCustomAds",
@@ -117,8 +118,34 @@
             "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
         }
     ],
-    "MORE_APP_SPLASH": [
-       
+   "MORE_APP": [
+        {
+            "app_name": "Instagram",
+            "app_packageName": "com.instagram.android",
+            "app_logo": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=w240-h480-rw",
+            "app_banner": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=w240-h480-rw",
+            "app_shortDecription": "Instagram allows you to create and share your photos, stories, reels and videos with the friends and followers",
+            "app_rating": "4.7",
+            "app_download": "100M"
+        },
+         {
+            "app_name": "Snapchat",
+            "app_packageName": "com.snapchat.android",
+            "app_logo": "https://play-lh.googleusercontent.com/nC95iM2f4dXas2K5x-heZ_uUVH9oc-mnlQF9phleiU2Kfk_Z1Rmwrbwv0QOdwQ__T4A=w240-h480-rw",
+            "app_banner": "https://play-lh.googleusercontent.com/nC95iM2f4dXas2K5x-heZ_uUVH9oc-mnlQF9phleiU2Kfk_Z1Rmwrbwv0QOdwQ__T4A=w240-h480-rw",
+            "app_shortDecription": "Snapchat is a fast and fun way to connect and share special moments with your friends and family 👻",
+            "app_rating": "4.5",
+            "app_download": "50M"
+        },
+         {
+            "app_name": "B612 Camera&Photo/Video Editor",
+            "app_packageName": "com.linecorp.b612.android",
+            "app_logo": "https://play-lh.googleusercontent.com/MZQJwhOkgsXWeR-5-dey7Ckras4a9xx2JN8ZfQ_Twz0otjKwUcT6qkPWo8OheOShWeg=w240-h480-rw",
+            "app_banner": "https://play-lh.googleusercontent.com/MZQJwhOkgsXWeR-5-dey7Ckras4a9xx2JN8ZfQ_Twz0otjKwUcT6qkPWo8OheOShWeg=w240-h480-rw",
+            "app_shortDecription": "Meet trendy effects, filters, and stickers that are updated every day!",
+            "app_rating": "4.2",
+            "app_download": "500M"
+        }
     ],
     "EXTRA_DATA": {
         "qurekapredmglurl": [
